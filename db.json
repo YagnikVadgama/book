@@ -1,54 +1,52 @@
-{
-  "books": [
-    {
-      "isbn": "9781593275846",
-      "title": "Eloquent JavaScript, Second Edition",
-      "subtitle": "A Modern Introduction to Programming",
-      "author": "Marijn Haverbeke",
-      "published": "2014-12-14T00:00:00.000Z",
-      "publisher": "No Starch Press",
-      "pages": 472,
-      "website": "http://eloquentjavascript.net/"
-    },
-    {
-      "isbn": "9781449331818",
-      "title": "Learning JavaScript Design Patterns",
-      "subtitle": "A JavaScript and jQuery Developer's Guide",
-      "author": "Addy Osmani",
-      "published": "2012-07-01T00:00:00.000Z",
-      "publisher": "O'Reilly Media",
-      "pages": 254,
-      "website": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
-    },
-    {
-      "isbn": "9781449365035",
-      "title": "Speaking JavaScript",
-      "subtitle": "An In-Depth Guide for Programmers",
-      "author": "Axel Rauschmayer",
-      "published": "2014-02-01T00:00:00.000Z",
-      "publisher": "O'Reilly Media",
-      "pages": 460,
-      "website": "http://speakingjs.com/"
-    },
-    {
-      "isbn": "9781491950296",
-      "title": "Programming JavaScript Applications",
-      "subtitle": "Robust Web Architecture with Node, HTML5, and Modern JS Libraries",
-      "author": "Eric Elliott",
-      "published": "2014-07-01T00:00:00.000Z",
-      "publisher": "O'Reilly Media",
-      "pages": 254,
-      "website": "http://chimera.labs.oreilly.com/books/1234000000262/index.html"
-    },
-    {
-      "isbn": "9781593277574",
-      "title": "Understanding ECMAScript 6",
-      "subtitle": "The Definitive Guide for JavaScript Developers",
-      "author": "Nicholas C. Zakas",
-      "published": "2016-09-03T00:00:00.000Z",
-      "publisher": "No Starch Press",
-      "pages": 352,
-      "website": "https://leanpub.com/understandinges6/read"
-    }
-  ]
-}
+[
+  {
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "images/things-fall-apart.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "images/fairy-tales.jpg",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "imageLink": "images/the-divine-comedy.jpg",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "imageLink": "images/the-epic-of-gilgamesh.jpg",
+    "language": "Akkadian",
+    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "imageLink": "images/the-book-of-job.jpg",
+    "language": "Hebrew",
+    "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+    "pages": 176,
+    "title": "The Book Of Job",
+    "year": -600
+  }
+]
