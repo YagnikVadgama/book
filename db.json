@@ -1,4 +1,5 @@
-[
+{
+  "books": [
     {
       "isbn": "9781593275846",
       "title": "Eloquent JavaScript, Second Edition",
@@ -49,4 +50,5 @@
       "pages": 352,
       "website": "https://leanpub.com/understandinges6/read"
     }
- ]
+  ]
+}
